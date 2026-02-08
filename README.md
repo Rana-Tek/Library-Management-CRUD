@@ -100,7 +100,8 @@ Make sure you have the following installed:
 
 ## Usage
 
-[DEMO GIF] (assets/demo1.gif, assets/demo2.gif)
+[DEMO GIF] (assets/demo1.gif<img width="1895" height="852" alt="demo1" src="https://github.com/user-attachments/assets/2c7e5a57-1cfc-4f6a-823b-63173d9328b9" />
+, assets/demo2.gif)
 
 ## Project Structure
 
